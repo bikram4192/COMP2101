@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "hello world"
-exit
+echo "i am a process # $$"
